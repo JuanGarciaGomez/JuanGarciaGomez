@@ -1,27 +1,55 @@
-## Hola, soy Juan Felipe Garcia Gomez 😄
+<h1 align="left">Hi 👋, I'm Juan Felipe García Gómez</h1>
+<h3 align="left">Android developer from Colombia, I'm working with java and kotlin also i like work in web with personal proyects.</h3>
 
-Soy desarrollador movil (menos de un año). Actualmente estoy trabajando con Java y Kotlin implementando patrones de diseño y clean architecture, ademas de tener gran interes en desarrollo web donde trabajo en proyectos personales.
+<h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+        <a href="https://www.mysql.com/" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" /> </a>
+        <a href="https://www.postgresql.org" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="postgresql" width="40" height="40" /> </a>
+        <a href="https://www.sqlite.org/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+        </a>
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img
+                src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
+                height="40" /> </a>
+    </p>
+  <p align="left">
+        <a href="https://developer.android.com" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+                alt="android" width="40" height="40" /> </a>
+        <a href="https://kotlinlang.org" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
+                height="40" /> </a>
+        <a href="https://www.java.com" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+                width="40" height="40" /> </a>
+    </p>
+    <p align="left">
+        <a href="https://www.w3.org/html/" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3" width="40" height="40" /> </a>
+        <a href="https://getbootstrap.com" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                alt="bootstrap" width="40" height="40" /> </a>
+    </p>
+    <p align="left">
+        <a href="https://firebase.google.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+                height="40" /> </a>
+        <a href="https://git-scm.com/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+    </p>
 
-Habilidades
-
-<a href="https://github.com/JuanGarciaGomez"><img src="https://camo.githubusercontent.com/5087e8e9195fb469d8a3b8572a23400fe5a6d3671d85cdbc787d13a2eaeba5d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d677261793f6c6f676f3d68746d6c35266c6162656c3d48544d4c35266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d6f72616e676526636f6c6f723d6f72616e6765" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-gray?logo=html5&amp;label=HTML5&amp;logoColor=white&amp;labelColor=orange&amp;color=orange" style="max-width: 100%;"></a>
-<a href="https://github.com/JuanGarciaGomez"><img src="https://camo.githubusercontent.com/d02dbf5c96f8a41221236b63f01d52468f2040908503ace801ae101e55c8dfc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d677261793f6c6f676f3d63737333266c6162656c3d43535333266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d626c756526636f6c6f723d626c7565" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-gray?logo=css3&amp;label=CSS3&amp;logoColor=white&amp;labelColor=blue&amp;color=blue" style="max-width: 100%;"></a>
-<a href="https://github.com/JuanGarciaGomez"><img src="https://camo.githubusercontent.com/26980c06254c0f43984eabcea43d2da234a50c1bf3f1e6f996c8927f0f77ed77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d677261793f6c6f676f3d626f6f747374726170266c6162656c3d426f6f747374726170266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d707572706c6526636f6c6f723d707572706c65" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-gray?logo=bootstrap&amp;label=Bootstrap&amp;logoColor=white&amp;labelColor=purple&amp;color=purple" style="max-width: 100%;"></a>
-<br>
-<br>
-<a href="https://github.com/JuanGarciaGomez"><img src="https://camo.githubusercontent.com/304b371461ab1a95cc758b7b1d2d72e102c548f30a4601e2b763549ef14fde06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d4a617661253230792532304b6f746c696e2d677265656e3f6c6f676f3d616e64726f6964266c6162656c3d416e64726f6964" alt="Android" data-canonical-src="https://img.shields.io/badge/Android-Java%20y%20Kotlin-green?logo=android&amp;label=Android" style="max-width: 100%;"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juan felipe garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan felipe garcia" height="30" width="40" /></a>
+</p>
 
 <!--
-**JuanGarciaGomez/JuanGarciaGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
